@@ -21,12 +21,13 @@ header {
 
 .navbar {
   display: flex;
+  margin: 2rem 1.5rem 2rem 2rem;
   align-items: center;
-  gap: 20px;
+  gap: 0.5rem;
 }
 
 .logo img {
-  height: 90px;    
+  height: 80px;    
 }
 
 .logo img:hover {
